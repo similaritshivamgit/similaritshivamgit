@@ -13,7 +13,7 @@
         <a href="https://github.com/similaritshivamgit">
           <img src="https://img.shields.io/badge/GitHub-4f86f7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
-        <img src="https://komarev.com/ghpvc/?username=govindrajawat&style=for-the-badge&color=4f86f7" alt="Profile views"/>
+        <img src="https://komarev.com/ghpvc/?username=similaritshivamgit&style=for-the-badge&color=4f86f7" alt="Profile views"/>
       </p>
       <blockquote>
         <b>💻 Passionate .NET Developer building real-world solutions. Open to backend roles and full-stack collaborations.</b>
